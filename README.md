@@ -18,6 +18,7 @@
 Make sure to add ***Dependencies*** to your project in `Gradle Scripts` -> `build.gradle` -> `Module:App-name.app`
 
 >implementation "androidx.recyclerview:recyclerview:1.1.0"
+
 >implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
 
 Raw Sample:
