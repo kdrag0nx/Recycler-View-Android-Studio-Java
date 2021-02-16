@@ -1,6 +1,6 @@
-#Recycler-View-Android-Studio-Java
+# Recycler-View-Android-Studio-Java
 
-[Watch Full Tutorials Here]( https://google.com "Recycler View")
+[Watch Full Tutorials Here]( https://youtu.be/90WPyV9-vaY "Recycler View")
 
 |Language Used | Java |
 |---|---|
@@ -22,7 +22,7 @@ Make sure to add ***Dependencies*** to your project in `Gradle Scripts` -> `buil
 >implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
 
 Raw Sample:
-![]()
+![](https://github.com/amitkv1212/Recycler-View-Android-Studio-Java/blob/main/ezgif.com-gif-maker.gif "Sample Image")
 
 ***Main Activity Code***
 ```
