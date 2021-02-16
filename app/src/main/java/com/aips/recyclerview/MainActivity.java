@@ -1,30 +1,3 @@
-#Recycler-View-Android-Studio-Java
-
-[Watch Full Tutorials Here]( https://google.com "Recycler View")
-
-|Language Used | Java |
-|---|---|
-
-|Total Xml Files| 2 |
-|---|---|
-
-|Total Activity | 1 |
-|---|---|
-
-|Total Java Class | 1 |
-|---|---|
-
----
-Make sure to add ***Dependencies*** to your project in `Gradle Scripts` -> `build.gradle` -> `Module:App-name.app`
-
->implementation "androidx.recyclerview:recyclerview:1.1.0"
->implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
-
-Raw Sample:
-![]()
-
-***Main Activity Code***
-```
 package com.aips.recyclerview;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -58,4 +31,3 @@ public class MainActivity extends AppCompatActivity {
         return arrayList;
     }
 }
-```
