@@ -21,9 +21,6 @@ Make sure to add ***Dependencies*** to your project in `Gradle Scripts` -> `buil
 
 >implementation "androidx.recyclerview:recyclerview-selection:1.1.0"
 
-Raw Sample:
-![](https://github.com/amitkv1212/Recycler-View-Android-Studio-Java/blob/main/ezgif.com-gif-makeee.gif "Sample Image")
-
 ***Main Activity Code***
 ```
 package com.aips.recyclerview;
