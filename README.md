@@ -1,5 +1,9 @@
 # Recycler-View-Android-Studio-Java
 
+
+**What is RecyclerView?**
+***The RecyclerView is a widget that is more flexible and advanced version of GridView and ListView. It is a container for displaying large datasets which can be scrolled efficiently by maintaining limited number of views. You can use RecyclerView widget when you have data collections whose elements change at runtime depend on network event or user action.***
+
 [Watch Full Tutorials Here]( https://youtu.be/90WPyV9-vaY "Recycler View")
 
 |Language Used | Java |
